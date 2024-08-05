@@ -1192,3 +1192,290 @@
 2024-08-04 02:07:22,998 [Worker-66: Launching Executing install in C__Users_tung9_IT_ShopmeEcommerce_ShopmeProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject":
 2024-08-04 02:07:22,998 [Worker-66: Launching Executing install in C__Users_tung9_IT_ShopmeEcommerce_ShopmeProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
 2024-08-04 02:32:57,782 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-05 23:36:17,671 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-05 23:44:12,890 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:44:12,923 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:44:12,927 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeCommon\src\test\resources
+2024-08-05 23:44:14,009 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:0.0.1-SNAPSHOT @ C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\pom.xml.
+2024-08-05 23:44:14,393 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1.pom
+2024-08-05 23:44:14,406 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1.pom
+2024-08-05 23:44:14,439 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.0.0/jquery-3.0.0.pom
+2024-08-05 23:44:14,445 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.0.0/jquery-3.0.0.pom
+2024-08-05 23:44:14,477 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3.pom
+2024-08-05 23:44:14,480 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3.pom
+2024-08-05 23:44:14,509 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.pom
+2024-08-05 23:44:14,515 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.pom
+2024-08-05 23:44:14,546 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.58/webjars-locator-core-0.58.pom
+2024-08-05 23:44:14,552 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.58/webjars-locator-core-0.58.pom
+2024-08-05 23:44:14,597 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.168/classgraph-4.8.168.pom
+2024-08-05 23:44:14,604 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.168/classgraph-4.8.168.pom
+2024-08-05 23:44:14,680 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1.jar
+2024-08-05 23:44:14,810 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1.jar
+2024-08-05 23:44:14,844 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3.jar
+2024-08-05 23:44:14,879 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3.jar
+2024-08-05 23:44:14,902 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.jar
+2024-08-05 23:44:14,903 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.58/webjars-locator-core-0.58.jar
+2024-08-05 23:44:14,904 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.168/classgraph-4.8.168.jar
+2024-08-05 23:44:14,911 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.58/webjars-locator-core-0.58.jar
+2024-08-05 23:44:14,993 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1.jar
+2024-08-05 23:44:15,032 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.168/classgraph-4.8.168.jar
+2024-08-05 23:44:15,192 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:0.0.1-SNAPSHOT @ C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\pom.xml.
+2024-08-05 23:44:15,255 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeFrontEnd:0.0.1-SNAPSHOT @ C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\pom.xml.
+2024-08-05 23:44:16,622 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1-sources.jar
+2024-08-05 23:44:16,626 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1-sources.jar
+2024-08-05 23:44:16,630 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:bootstrap:4.3.1
+2024-08-05 23:44:16,955 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3-sources.jar
+2024-08-05 23:44:16,958 [Worker-17: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.webjars:popper.js:1.14.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:popper.js:jar:sources:1.14.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-05 23:44:17,013 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:44:17,025 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:44:17,030 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:44:17,072 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1-sources.jar
+2024-08-05 23:44:17,074 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1-sources.jar
+2024-08-05 23:44:17,076 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.4.1
+2024-08-05 23:44:17,165 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.58/webjars-locator-core-0.58-sources.jar
+2024-08-05 23:44:17,167 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.58/webjars-locator-core-0.58-sources.jar
+2024-08-05 23:44:17,170 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.58
+2024-08-05 23:44:17,192 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:44:17,202 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:44:17,207 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeFrontEnd\src\test\resources
+2024-08-05 23:44:17,269 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.168/classgraph-4.8.168-sources.jar
+2024-08-05 23:44:17,377 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.168/classgraph-4.8.168-sources.jar
+2024-08-05 23:44:17,379 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.classgraph:classgraph:4.8.168
+2024-08-05 23:44:17,382 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:bootstrap:4.3.1
+2024-08-05 23:44:17,470 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3-javadoc.jar
+2024-08-05 23:44:17,562 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3-javadoc.jar
+2024-08-05 23:44:17,564 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.webjars:popper.js:1.14.3
+2024-08-05 23:44:17,567 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.4.1
+2024-08-05 23:44:17,570 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.58
+2024-08-05 23:44:17,572 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.classgraph:classgraph:4.8.168
+2024-08-05 23:44:17,574 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:bootstrap:4.3.1
+2024-08-05 23:44:17,578 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.4.1
+2024-08-05 23:44:17,580 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.58
+2024-08-05 23:44:17,582 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.classgraph:classgraph:4.8.168
+2024-08-05 23:47:01,088 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:47:01,089 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:47:01,092 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:50:00,122 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:50:00,122 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:50:00,125 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:52:01,130 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:52:01,130 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:52:01,134 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:53:55,940 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:53:55,941 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:53:55,944 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:55:15,370 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:55:15,371 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:55:15,374 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:56:15,549 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:56:15,550 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:56:15,553 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:58:18,238 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:58:18,239 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:58:18,241 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:58:27,958 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:58:27,958 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:58:27,961 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-05 23:59:41,426 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-05 23:59:41,427 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-05 23:59:41,431 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:00:37,678 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:0.0.1-SNAPSHOT @ C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\pom.xml.
+2024-08-06 00:00:37,822 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.3.2/spring-boot-devtools-3.3.2.pom
+2024-08-06 00:00:37,828 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.3.2/spring-boot-devtools-3.3.2.pom
+2024-08-06 00:00:38,034 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.3.2/spring-boot-devtools-3.3.2.jar
+2024-08-06 00:00:38,111 [Worker-29: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.3.2/spring-boot-devtools-3.3.2.jar
+2024-08-06 00:00:38,354 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:00:38,355 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:00:38,360 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:00:38,632 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:00:38,679 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:00:38,682 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:00:39,244 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.3.2/spring-boot-devtools-3.3.2-sources.jar
+2024-08-06 00:00:39,301 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.3.2/spring-boot-devtools-3.3.2-sources.jar
+2024-08-06 00:00:39,307 [Worker-30: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.3.2
+2024-08-06 00:01:12,172 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:01:12,172 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:01:12,176 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:01:18,297 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:01:18,297 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:01:18,301 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:01:38,414 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:01:38,414 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:01:38,417 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:03:39,056 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:03:39,057 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:03:39,060 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:04:15,007 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:04:15,008 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:04:15,014 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:06:18,284 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:06:18,284 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:06:18,287 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:07:46,070 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:07:46,070 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:07:46,074 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:08:33,127 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:08:33,128 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:08:33,130 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:11:18,261 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:11:18,262 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:11:18,269 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:14:05,706 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:14:05,707 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:14:05,709 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:14:14,971 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:14:14,973 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:14:14,976 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:14:57,679 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:14:57,679 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:14:57,682 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:15:42,672 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:15:42,673 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:15:42,675 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:16:09,803 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:16:09,804 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:16:09,807 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:16:20,353 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:16:20,353 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:16:20,356 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:17:11,483 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:17:11,484 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:17:11,486 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:17:23,553 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:17:23,554 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:17:23,556 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:18:07,787 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:18:07,788 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:18:07,790 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:18:10,160 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:18:10,162 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:18:10,165 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:18:27,996 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:18:27,997 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:18:28,000 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:18:45,556 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:18:45,557 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:18:45,560 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:20:01,129 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:20:01,130 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:20:01,133 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:22:28,097 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:22:28,098 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:22:28,100 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:22:54,426 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:22:54,427 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:22:54,430 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:23:11,893 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:23:11,894 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:23:11,895 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:23:29,105 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:23:29,105 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:23:29,108 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:23:40,878 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:23:40,879 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:23:40,882 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:25:47,675 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:25:47,676 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:25:47,678 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:27:40,319 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:27:40,320 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:27:40,322 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:27:52,382 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:27:52,383 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:27:52,385 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:27:59,542 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:27:59,543 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:27:59,546 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:29:06,332 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:29:06,333 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:29:06,336 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:29:54,755 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:29:54,756 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:29:54,758 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:30:23,472 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:30:23,473 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:30:23,475 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:30:32,240 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:30:32,241 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:30:32,244 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:30:37,340 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:30:37,341 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:30:37,345 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:31:08,583 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:31:08,584 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:31:08,587 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:31:14,561 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:31:14,562 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:31:14,564 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:31:24,224 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:31:24,225 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:31:24,228 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:31:38,734 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:31:38,735 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:31:38,737 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:31:51,242 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:31:51,243 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:31:51,246 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:32:01,091 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:32:01,092 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:32:01,094 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:32:51,327 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:32:51,328 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:32:51,331 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:32:55,705 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:32:55,707 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:32:55,709 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:33:04,126 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:33:04,127 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:33:04,129 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:33:11,070 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:33:11,071 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:33:11,073 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:33:26,633 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:33:26,634 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:33:26,637 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:35:53,105 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:35:53,106 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:35:53,109 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:36:12,492 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:36:12,493 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:36:12,496 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:36:39,178 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:36:39,179 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:36:39,182 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:37:00,665 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:37:00,666 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:37:00,668 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:37:50,340 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:37:50,340 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:37:50,343 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:38:15,668 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:38:15,669 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:38:15,672 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:38:53,207 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:38:53,208 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:38:53,209 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:39:25,264 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:39:25,265 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:39:25,267 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
+2024-08-06 00:44:27,638 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-06 00:44:27,639 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-06 00:44:27,641 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tung9\IT\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\test\resources
